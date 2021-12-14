@@ -1,0 +1,3 @@
+Greetings Viewer
+This program is merely to test reading from a text file and printing to console.
+Merry Christmas
